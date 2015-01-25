@@ -9,9 +9,9 @@ We are going to create a database driven Rails API that outputs all of our Cat's
     "cat": {
         "id": 1,
         "name": "Mr Tibbles",
-        "house-cat": true,
-        "cuteness": 10,
-        "img-url": "http://..."
+        "bio": true,
+        "owner": "Andrew",
+        "picture": "http://..."
     }
 }
 ```
